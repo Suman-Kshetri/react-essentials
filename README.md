@@ -55,9 +55,7 @@ function Counter() {
 Examples of side effects:
 
 * Fetching data from an API
-* Updating `document.title`
 * Setting timers (`setTimeout`, `setInterval`)
-* Subscribing to events
 
 ### Syntax
 
